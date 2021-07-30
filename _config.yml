@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Shayan Eskandari
-email: me@shayan.es
-description: Shayan Eskandari Website
-url: https://shayan.es # the base hostname & protocol for your site
-keywords: ["Shayan Eskandari","Shayan", "Eskandari" ,"Blockchain", "Security", "Bitcoin", "Ethereum", "Engineer", "Decentralization", "STS"]
+title: Hamidreza Moradi
+email: Hamid@europe.com
+description: Hamid Live CV
+url: https://irnb.github.com/whoami # the base hostname & protocol for your site
+keywords: ["Hamidreza Moradi","Hamidreza Moradi khanghah", "Moradi" ,"Blockchain", "Solidity", "Bitcoin", "Ethereum", "DeFi", "Decentralization", "researcher"]
 
 #
 ###################################
@@ -33,28 +33,19 @@ kramdown:
 ####################################
 #
 owner:
-  name: Shayan Eskandari
-  avatar: shayan.jpg
-  job: "Blockchain Security Engineer / PhD Candidate"
-  bio: "Based in Montreal, QC."
-  email: me@shayan.es
+  name: Hamidreza Moradi
+  avatar: Hamid.jpg
+  job: "Blockchain Researcher / Computer Science student"
+  bio: "Based in Tehran, IR."
+  email: hamid@europe.com
   #disqus-shortname: renyuanzblog
-  twitter: sbetamc #username
+  twitter: newbateni2 #username
   facebook: #username
-  google:
-    plus: #username
-    analytics: UA-120656156-1
-    verify:
-    ad-client:
-    ad-slot:
-    site-verification: "eXNCznk_xXFAGUB-CyrLeDiuWaP8H5VUUdPTBvVAozg"
   bing-verify:
-  github: shayanb #username
-  stackoverflow: 1402429/shayan  # from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: shayane #username
+  github: irnb #username
+  linkedin: hamidreza-moradi-2b07581a7 #username
   xing: #username
-  medium: sbetamc
-  instagram: #username
+  instagram: newbateni
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -67,5 +58,4 @@ owner:
   flickr: #username
   codepen: #username
   telegram: #username
-  blog: http://blog.theshayan.com/
-  googlescholar: K9xYnSQAAAAJ
+  blog: http://irnb.github.io/
