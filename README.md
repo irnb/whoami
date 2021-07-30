@@ -1,5 +1,5 @@
-# shayan.es
-my personal web site
+# irnb.github.com/whoami/
+my live CV
 
 -------------
 
